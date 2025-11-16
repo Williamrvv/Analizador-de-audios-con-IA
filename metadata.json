@@ -1,0 +1,5 @@
+{
+  "name": "Analizador de Audio IA",
+  "description": "Una aplicación web para transcribir, analizar y gestionar grabaciones de audio utilizando IA. Sube audios, obtén transcripciones con separación de locutores, resúmenes automáticos, haz preguntas sobre el contenido y exporta todo a PDF.",
+  "requestFramePermissions": []
+}
