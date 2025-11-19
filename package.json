@@ -12,10 +12,11 @@
   "devDependencies": {
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "dotenv": "^16.4.5",
     "esbuild": "^0.20.2",
     "typescript": "^5.0.0"
   },
   "scripts": {
-    "build": "esbuild index.tsx --bundle --outfile=dist/bundle.js --jsx=automatic --loader:.ts=tsx --define:process.env.API_KEY='\"__API_KEY__\"'"
+    "build": "node build.js"
   }
 }
