@@ -1,1 +1,4 @@
-��^�j�W�v+-����z+x:��ߊW���򦈧�!��$j���$;(�����;(�
+# .dockerignore
+node_modules
+npm-debug.log
+.git
